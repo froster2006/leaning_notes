@@ -1,0 +1,13 @@
+copy paste:
+  mark start: C-space
+  move to end, Copy: M-w, Cut: C-w
+  move to place: C-y
+  
+Undo:
+  C-x u
+
+delete a line
+  C-k
+  
+delete a word
+  M-f M-DEL
